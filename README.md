@@ -31,7 +31,7 @@ python3 redmapper.py -u http://target.com --consent
 ### 2. Compliance Scanner - Regulatory Verification Tool
 **GDPR/HIPAA/PCI-DSS/CCPA Compliance Checker**  
 ```bash
-python3 compliance.py -u https://target.com --gdpr --hipaa --consent
+python3 compliancescanner.py -u https://target.com --gdpr --hipaa --consent
 ```
 
 ---
