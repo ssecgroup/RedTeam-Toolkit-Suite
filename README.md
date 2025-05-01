@@ -184,5 +184,8 @@ Ethical use only. Unauthorized scanning prohibited.
 
 ## Support
 
-For assistance, contact: **ssecgroup08@gmail.com**
-donation link: 
+For assistance, 
+contact: **ssecgroup08@gmail.com**
+
+
+donation link: 0x3d18a0941AF65df7cA2CB0D7d7E57DA1093E1044
