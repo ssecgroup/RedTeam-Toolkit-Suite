@@ -68,7 +68,7 @@ python3 compliance.py -u https://target.com --gdpr --hipaa --consent
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourorg/redteam-tools
+   git clone https://github.com/ssecgroup/RedTeam-Toolkit-Suite.git
    cd redteam-tools
    ```
 2. Install dependencies:
